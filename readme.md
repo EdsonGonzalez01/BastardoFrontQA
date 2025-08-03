@@ -85,7 +85,7 @@ pytest e2e/tests/test_new_room.py::test_create_room_with_ws_simulation
 - `test_validation_errors_on_empty_fields`: Verifica validaciones de campos vacíos
 - `test_create_room_with_ws_simulation`: Prueba la creación de sala con simulación WebSocket
 
-## Ejecución en CI/CD
+## TODO Ejecución en CI/CD
 
 Las pruebas están configuradas para ejecutarse en GitHub Actions. Ver el archivo `.github/workflows/pytest.yml` para más detalles.
 
